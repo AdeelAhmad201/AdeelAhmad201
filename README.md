@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdeelAhmad201
-- 👀 I’m interested in neural technology
-- 🌱 I’m currently learning flutter and dart
+- 👀 I’m interested in AI and LLM
+- 🌱 I’m currently learning Deep Learning and LLM
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
